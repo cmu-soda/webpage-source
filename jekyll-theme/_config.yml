@@ -1,0 +1,24 @@
+name: Simon Chu
+description: Software engineering PhD student at Carnegie Mellon University
+copyright: "simonchu.org"
+meta_description: "Simon's Personal Website"
+
+markdown: kramdown
+highlighter: rouge
+logo: false
+paginate: 15
+baseurl: /
+domain_name: "http://www.simonchu.org"
+google_analytics: "UA-XXXXXXXX-X"
+plugins: [jekyll-paginate]
+
+# output destination
+destination: ../site
+
+# Details for the RSS feed generator
+url: ""
+author: "Simon Chu"
+author_description: "Software engineering PhD student"
+
+# Disqus config
+disqus-shortname: ""
