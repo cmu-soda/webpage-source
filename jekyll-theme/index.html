@@ -2,18 +2,43 @@
 layout: default
 title: Home
 cover: false
-about: 'about.html'
+
+vision: 'vision.html'
+leadership: 'leadership.html'
+projects: 'projects.html'
+publication: 'publication.html'
+contact: 'contact.html'
 ---
 
 <header class="main-header {% if page.cover %}" style="background-image: url({{ page.cover }}) {%else%}no-cover{% endif %}">
     <nav class="main-nav overlay clearfix">
-            {% if page.logo %}
-                <a class="blog-logo" href="{{ site.baseurl }}">
-                    <img src="{{ page.logo }}" alt="Blog Logo" />
-                </a>
-            {% endif %}
+        <!-- in the case that a gigantic cover is put on the front page -->
+        {% if page.logo %}
+            <a class="blog-logo" href="{{ site.baseurl }}">
+                <img src="{{ page.logo }}" alt="Blog Logo" />
+            </a>
+        {% endif %}
+
+        
+        <!-- contact page -->
+        <a class="subscribe-button" href="{{ page.contact | relative_url }} ">Contact</a>
+
+        <!-- publication page -->
+        <a class="subscribe-button" href="{{ page.publication | relative_url }} ">Publication</a>
+
+        <!-- projects page -->
+        <a class="subscribe-button" href="{{ page.projects | relative_url }} ">Projects</a>
+
+        <!-- leadership page -->
+        <a class="subscribe-button" href="{{ page.leadership | relative_url }} ">Leadership</a>
+
+        <!-- vision page -->
+        <a class="subscribe-button" href="{{ page.vision | relative_url }} ">Vision</a>
+
+        
+        <!-- in the case a subscribe button is put alongside the button -->
+        <!-- https://rosario.io/kasper/ -->
         <!-- <a class="subscribe-button icon-feed" href="{{'feed.xml' | relative_url }} ">Subscribe</a> -->
-        {% if page.about %} <a class="subscribe-button" href="{{page.about | relative_url }} ">About me</a> {% endif %}
     </nav>
     <div class="vertical">
         <div class="main-header-content inner">

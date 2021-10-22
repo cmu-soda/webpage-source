@@ -1,6 +1,6 @@
 ---
 layout: static
-title: About me
+title: Our Vision
 ---
 
 Hi there! I'm Simon Chu -- Software Engineering PhD student in the
