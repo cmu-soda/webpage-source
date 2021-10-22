@@ -1,14 +1,14 @@
-name: Simon Chu
-description: Software engineering PhD student at Carnegie Mellon University
-copyright: "simonchu.org"
-meta_description: "Simon's Personal Website"
+name: SoDA Lab
+description: Software Design and Analysis Lab at Carnegie Mellon University
+copyright: "SoDA Lab"
+meta_description: "Software Design and Analysis Lab"
 
 markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
-domain_name: "http://www.simonchu.org"
+domain_name: "http://cmu-soda.github.io"
 google_analytics: "UA-XXXXXXXX-X"
 plugins: [jekyll-paginate]
 
@@ -16,9 +16,9 @@ plugins: [jekyll-paginate]
 destination: ../site
 
 # Details for the RSS feed generator
-url: ""
-author: "Simon Chu"
-author_description: "Software engineering PhD student"
+url: "cmu-soda.github.io"
+author: "SoDA Lab"
+author_description: "Software Design and Analysis Lab"
 
 # Disqus config
 disqus-shortname: ""
