@@ -13,7 +13,7 @@ google_analytics: "UA-XXXXXXXX-X"
 plugins: [jekyll-paginate]
 
 # output destination
-destination: ../website
+destination: ../../EXPORT-SODA-WEB
 
 # Details for the RSS feed generator
 url: "cmu-soda.github.io"
