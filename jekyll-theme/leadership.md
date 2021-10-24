@@ -304,7 +304,7 @@ h4 {
             Gabriel Moreno
         </h3>
         <h4 class="typography-body typography-profile-title">
-          Co-Investigator
+          Collaborator
         </h4>
       </div>
     </div>
