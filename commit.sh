@@ -14,7 +14,7 @@ echo "Jekyll Theme Built"
 echo "=================="
 
 # commit generated webpage files
-cd website
+cd ../EXPORT_SODA_WEB
 git add .
 git commit -m "auto commit @ $(date)"
 git push origin main
