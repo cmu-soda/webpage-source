@@ -1,3 +1,3 @@
-jekyll clean
+# jekyll clean
 jekyll build
 jekyll serve
