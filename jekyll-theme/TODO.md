@@ -1,1 +1,3 @@
 - change the css for subscribe-button
+- photo of Lucy Keying Wang
+- photo of Tobias Dursmid
