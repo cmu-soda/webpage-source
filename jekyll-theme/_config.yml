@@ -17,8 +17,8 @@ destination: ../../EXPORT-SODA-WEB
 
 # Details for the RSS feed generator
 url: "cmu-soda.github.io"
-author: "SoDA Lab"
-author_description: "Software Design and Analysis Lab"
+author: "Eunsuk Kang"
+author_description: "Principle Investigator, SoDA Lab"
 
 # Disqus config
 disqus-shortname: ""

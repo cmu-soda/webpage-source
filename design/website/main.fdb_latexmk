@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1634937081 "/Users/chus/Code/SODA-WEB/design/website/main.tex" "/Users/chus/Code/SODA-WEB/design/website/main.pdf" "main" 1634937099
-  "/Users/chus/Code/SODA-WEB/design/website/main.aux" 1634937081 600 135f7eea95e34e8615106ea47225a39f ""
-  "/Users/chus/Code/SODA-WEB/design/website/main.tex" 1634937093 1140 d5c023a50b3df84af6ca2ad5c96ba28d ""
+["pdflatex"] 1635119012 "/Users/chus/Code/SODA-WEB/design/website/main.tex" "/Users/chus/Code/SODA-WEB/design/website/main.pdf" "main" 1635119014
+  "/Users/chus/Code/SODA-WEB/design/website/main.aux" 1635119012 600 a96bc062fa1ad6a2d1b952e00889fa3b ""
+  "/Users/chus/Code/SODA-WEB/design/website/main.tex" 1635119011 1459 6dea29ec54fb1374e49ec308c1970605 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -28,11 +28,11 @@
   "/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1586288239 4811913 0be9a7e86c70a26e5e3042966bcd7097 ""
   "/usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt" 1586288259 2432462 fd0fa20e9a3cb5f8169fd0ba1c955158 ""
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
-  "main.aux" 1634937081 600 135f7eea95e34e8615106ea47225a39f "pdflatex"
-  "main.tex" 1634937093 1140 d5c023a50b3df84af6ca2ad5c96ba28d ""
+  "main.aux" 1635119012 600 a96bc062fa1ad6a2d1b952e00889fa3b "pdflatex"
+  "main.tex" 1635119011 1459 6dea29ec54fb1374e49ec308c1970605 ""
   (generated)
   "/Users/chus/Code/SODA-WEB/design/website/main.pdf"
-  "main.aux"
-  "/Users/chus/Code/SODA-WEB/design/website/main.log"
-  "main.pdf"
   "main.log"
+  "main.pdf"
+  "/Users/chus/Code/SODA-WEB/design/website/main.log"
+  "main.aux"

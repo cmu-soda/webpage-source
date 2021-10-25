@@ -129,7 +129,7 @@ h4 {
 } */
 </style>
 
-<h2>Executive Profiles</h2>
+<h2>Faculty</h2>
 <br>
 
 <!-- Executive Profiles -->
@@ -166,104 +166,6 @@ h4 {
     </div>
   </div>
 
-  <!-- Simon Chu -->
-  <div class="column">
-    <div class="card">
-      <img src="/assets/images/leadership/simon-chu.png" alt="Simon Chu" style="width:100%">
-      <div class="container">
-        <h3 class="typography-body block-link profile-name">
-            Simon Chu
-        </h3>
-        <h4 class="typography-body typography-profile-title">
-            PhD Student
-        </h4>
-      </div>
-    </div>
-  </div>
-
-  <!-- Ben Gafford -->
-  <div class="column">
-    <div class="card">
-      <img src="/assets/images/leadership/ben-gafford.png" alt="Ben Gafford" style="width:100%">
-      <div class="container">
-        <h3 class="typography-body block-link profile-name">
-            Ben Gafford
-        </h3>
-        <h4 class="typography-body typography-profile-title">
-            PhD Student
-        </h4>
-      </div>
-    </div>
-  </div>
-  
-  <!-- Rômulo Meira Goes -->
-  <div class="column">
-    <div class="card">
-      <img src="/assets/images/leadership/romulo-goes.png" alt="Rômulo Meira Goes" style="width:100%">
-      <div class="container">
-        <h3 class="typography-body block-link profile-name">
-            Rômulo Meira Goes
-        </h3>
-        <h4 class="typography-body typography-profile-title">
-          Postdoctoral Student
-        </h4>
-      </div>
-    </div>
-  </div>
-
-  <!-- Parv Kapoor -->
-  <div class="column">
-    <div class="card">
-      <img src="/assets/images/leadership/parv-kapoor.png" alt="Parv Kapoor" style="width:100%">
-      <div class="container">
-        <h3 class="typography-body block-link profile-name">
-            Parv Kapoor
-        </h3>
-        <h4 class="typography-body typography-profile-title">
-            PhD Student
-        </h4>
-      </div>
-    </div>
-  </div>
-
-  <!-- Emma Shedden -->
-  <div class="column">
-    <div class="card">
-      <img src="/assets/images/leadership/emma-shedden.png" alt="Emma Shedden" style="width:100%">
-      <div class="container">
-        <h3 class="typography-body block-link profile-name">
-            Emma Shedden
-        </h3>
-        <h4 class="typography-body typography-profile-title">
-            Research Assistant
-        </h4>
-      </div>
-    </div>
-  </div>
-
-  <!-- Changjian Zhang -->
-  <div class="column">
-    <div class="card">
-      <img src="/assets/images/leadership/changjian-zhang.png" alt="Changjian Zhang" style="width:100%">
-      <div class="container">
-        <h3 class="typography-body block-link profile-name">
-            CJ Zhang
-        </h3>
-        <h4 class="typography-body typography-profile-title">
-            PhD Student
-        </h4>
-      </div>
-    </div>
-  </div>
-    
-</div>
-
-
-<!-- show co-advisors -->
-<hr>
-
-
-<div class="row">
 
   <!-- David Garlan -->
   <div class="column">
@@ -304,7 +206,108 @@ h4 {
             Gabriel Moreno
         </h3>
         <h4 class="typography-body typography-profile-title">
-          Collaborator
+          Co-Investigator
+        </h4>
+      </div>
+    </div>
+  </div>
+</div>
+
+<hr>
+<h2>Students</h2>
+<br>
+
+<div class="row">
+
+  <!-- Rômulo Meira Goes -->
+  <div class="column">
+    <div class="card">
+      <img src="/assets/images/leadership/romulo-goes.png" alt="Rômulo Meira Goes" style="width:100%">
+      <div class="container">
+        <h3 class="typography-body block-link profile-name">
+            Rômulo Meira Goes
+        </h3>
+        <h4 class="typography-body typography-profile-title">
+          Postdoctoral Student
+        </h4>
+      </div>
+    </div>
+  </div>
+
+  <!-- Simon Chu -->
+  <div class="column">
+    <div class="card">
+      <img src="/assets/images/leadership/simon-chu.png" alt="Simon Chu" style="width:100%">
+      <div class="container">
+        <h3 class="typography-body block-link profile-name">
+            Simon Chu
+        </h3>
+        <h4 class="typography-body typography-profile-title">
+            PhD Student
+        </h4>
+      </div>
+    </div>
+  </div>
+
+  <!-- Ben Gafford -->
+  <div class="column">
+    <div class="card">
+      <img src="/assets/images/leadership/ben-gafford.png" alt="Ben Gafford" style="width:100%">
+      <div class="container">
+        <h3 class="typography-body block-link profile-name">
+            Ben Gafford
+        </h3>
+        <h4 class="typography-body typography-profile-title">
+            PhD Student
+        </h4>
+      </div>
+    </div>
+  </div>
+  
+
+
+  <!-- Parv Kapoor -->
+  <div class="column">
+    <div class="card">
+      <img src="/assets/images/leadership/parv-kapoor.png" alt="Parv Kapoor" style="width:100%">
+      <div class="container">
+        <h3 class="typography-body block-link profile-name">
+            Parv Kapoor
+        </h3>
+        <h4 class="typography-body typography-profile-title">
+            PhD Student
+        </h4>
+      </div>
+    </div>
+  </div>
+
+  
+
+  <!-- Changjian Zhang -->
+  <div class="column">
+    <div class="card">
+      <img src="/assets/images/leadership/changjian-zhang.png" alt="Changjian Zhang" style="width:100%">
+      <div class="container">
+        <h3 class="typography-body block-link profile-name">
+            CJ Zhang
+        </h3>
+        <h4 class="typography-body typography-profile-title">
+            PhD Student
+        </h4>
+      </div>
+    </div>
+  </div>
+    
+  <!-- Emma Shedden -->
+  <div class="column">
+    <div class="card">
+      <img src="/assets/images/leadership/emma-shedden.png" alt="Emma Shedden" style="width:100%">
+      <div class="container">
+        <h3 class="typography-body block-link profile-name">
+            Emma Shedden
+        </h3>
+        <h4 class="typography-body typography-profile-title">
+            Research Assistant
         </h4>
       </div>
     </div>
@@ -313,8 +316,9 @@ h4 {
 </div>
 
 
+
 <hr>
-<h2>Former Affiliates</h2>
+<h2>Alumni</h2>
 <br>
 
 
