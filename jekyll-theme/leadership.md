@@ -6,6 +6,8 @@ title: SoDA Leadership
 <!-- meet the team -->
 <!-- put 500 x 333 pixel images -->
 <!-- https://www.w3schools.com/howto/howto_css_team.asp -->
+<!-- https://www.geeksforgeeks.org/css-combine-background-image-with-gradient-overlay/ -->
+
 <style>
 html {
   box-sizing: border-box;
@@ -33,6 +35,11 @@ html {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   /* added */
   margin-bottom: 20px;
+
+  /* add gradient to the background of the image */
+  background-image: linear-gradient(0deg, rgba(255, 255, 255, 0), rgba(228, 228, 228, 1.0));
+  width: 100%;
+  height: 100%;
 }
 
 .profile-name {
